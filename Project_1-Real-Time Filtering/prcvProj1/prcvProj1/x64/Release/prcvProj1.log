@@ -1,0 +1,13 @@
+﻿  filter.cpp
+C:\Users\sahil\MS-Academics\Spring_2023\CS_5330-PRCV\Codes\Project_1-Real-Time Filtering\prcvProj1\prcvProj1\filter.cpp(324,34): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=short
+          ]
+  vidDisplay.cpp
+  Generating code
+  150 of 155 functions (96.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  prcvProj1.vcxproj -> C:\Users\sahil\MS-Academics\Spring_2023\CS_5330-PRCV\Codes\Project_1-Real-Time Filtering\prcvProj1\x64\Release\prcvProj1.exe
